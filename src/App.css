@@ -1,0 +1,50 @@
+.credit-card {
+    width: 500px;
+    background-color: #042848;
+    color: white;
+    border-radius: 10px;
+    padding: 0 10px;
+    margin: 50px 400px 150px 
+}
+.credit-card-title {
+    text-align: left;
+}
+.fab{
+   margin-left:200px;
+   padding-top: 4px
+}
+.credit-card-content {
+    display: flex;
+}
+.credit-card-text {
+    flex: 1;
+    padding-right: 10px
+}
+.credit-card-chip {
+    width: 50px;
+    height: 40px;
+    background-color: #baaf7d;
+    border-radius: 10px;
+}
+.credit-card-number {
+    margin-top: 10px;
+    color: #fff;
+  
+}
+.credit-card-valid-thru {
+    text-align: right;
+}
+.credit-card-holder-name {
+    padding: 0;
+    font-size: 1.2em
+}
+.credit-card-logo {
+    width: 70px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 10px;
+}
+.credit-card-logo img {
+    width: 80%;
+    height: 80%
+}
